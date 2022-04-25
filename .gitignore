@@ -1,0 +1,9 @@
+/**/*.pth
+/**/*.weights
+/weights/darknet53.conv.74
+/data/custom
+/data/samples
+/data/output
+/**/*.pyc
+/cuda-test-data
+/train_results/train_result.png
