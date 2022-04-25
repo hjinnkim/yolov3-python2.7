@@ -16,7 +16,7 @@
 > ### Installing from github
 > ```bash
 > git clone https://github.com/hjinnkim/yolov3-python2.7.git
-> cd yolov3_python2.7/
+> cd yolov3-python2.7/
 > pip install -r requirements.txt
 > ```
 > Above commands let you download this repository and install the required python packages
