@@ -25,9 +25,8 @@
 > sh ./weights/download_weights.sh
 > ```
 > ### If you finished following above instructions, your directory looks like below:
-> ![Screenshot from 2022-03-22 11-14-35](https://user-images.githubusercontent.com/89929547/159394387-24f613be-ad5d-43cd-a151-71dd4aec3af5.png)
 > 
-> "checkpoints" directory will be created if you run train.py code
+> 
 
 ## How to construct your custom dataset
 Actually, you can place your custom dataset anywhere in your workstation, but we recommend that you follow below method.
