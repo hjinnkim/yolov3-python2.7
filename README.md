@@ -88,7 +88,7 @@ Actually, you can place your custom dataset anywhere in your workstation, but we
 >
 > In this case, you train YOLO model with some default settings. The default settings are as follows:
 > ~~~
-> 1. Using *"YOLOv3-tiny"* model
+> 1. Using "YOLOv3-tiny" model
 > 2. Using pretrained *"YOLOv3-tiny"* weights
 > 3. Training epochs : 100
 > 4. Using dataset information in "config/custom.data"
